@@ -1,4 +1,4 @@
-﻿namespace ProjectWerk_Groep1
+﻿namespace DAL
 {
     public class Class1
     {
